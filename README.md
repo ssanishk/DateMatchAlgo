@@ -28,6 +28,7 @@ pip install pandas numpy scipy
 
 ## Output: 
 The script outputs the optimal matchings (pairs of people) and their respective compatibility scores. It also calculates the total maximum compatibility score.
+![Alt text](./Output.png)
 
 ## How to Run the Script
 1. Place your data in an Excel file named Book1.xlsx with the following columns: 'Name,' 'TypeOfDate,' 'Pet,' 'Movies,' 'Weather,' 'FreeTime,' and 'Music.'
