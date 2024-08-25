@@ -28,6 +28,8 @@ pip install pandas numpy scipy
 
 ## Output: 
 The script outputs the optimal matchings (pairs of people) and their respective compatibility scores. It also calculates the total maximum compatibility score.
+
+
 ![Alt text](./Output.png)
 
 ## How to Run the Script
